@@ -1,5 +1,5 @@
 global:
-  domain: edge-iot.alice-platform.com
+  domain: edge-iot.alicelaw.net
 frontend:
   replicas: 2
   image: edge-iot/frontend:latest
