@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 //! ALICE Edge IoT SaaS — Core Engine
 //!
 //! Axum-based HTTP engine exposing compression, protocol gateway,
