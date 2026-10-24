@@ -5,7 +5,9 @@ thousands of devices at the boundary — before data ever reaches the cloud.
 
 ## License
 
-AGPL-3.0
+`LicenseRef-Proprietary`. The text is [LICENSE-Proprietary](LICENSE-Proprietary).
+
+Enquiries: https://extoria.co.jp/
 
 ## Architecture
 
